@@ -20,6 +20,6 @@ A 4-channel clock divider
 
 - Controls 1-4: manual control over the clock divisions for outputs 1/4, respectively.
 
-- CV 1-4: module the clock divisions for Controls 1-4, respectively.
+- CV 1-4: modulate the clock divisions for Controls 1-4, respectively.
 
 - Audio out 1-4: clock divisions out.
